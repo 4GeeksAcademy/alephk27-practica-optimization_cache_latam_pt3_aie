@@ -1,41 +1,46 @@
-# HTML Hello
+# Estante — Gestión de inventario
 
-The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
+Aplicación minimalista para administrar un inventario de libros. Frontend en React, TypeScript, Tailwind CSS y React Router; backend en FastAPI y Pydantic. Los datos están en `backend/books.json`, que también se actualiza al crear libros desde el formulario.
 
-> There is a video tutorial on [how to use this template to create your very first website here](https://youtu.be/dfbDCMu_p-0).
+## Modelo de libro
 
-## What to do next?
+- `id`: identificador numérico generado automáticamente.
+- `title`, `author`, `genre`: obligatorios.
+- `year`: año de publicación opcional.
+- `stock_id`: identificador único de inventario.
+- `stock`: cantidad entera no negativa.
 
-Create an `index.html` file with the [basic HTML structure](http://4geeks.com/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+## API
+
+| Método | Ruta | Descripción |
+| --- | --- | --- |
+| GET | `/books` | Lista todos los libros. |
+| GET | `/book/{id}` | Obtiene el detalle de un libro. |
+| GET | `/book/stock/{stock_id}` | Busca la cantidad disponible por ID de stock. |
+| POST | `/book` | Crea un libro y actualiza el archivo JSON. |
+
+La ruta de stock usa `/book/stock/{stock_id}` para no colisionar con `/book/{id}`. La documentación interactiva está en `http://localhost:8000/docs`.
+
+## Ejecutar localmente
+
+Necesitas Python 3.10 o posterior y Node.js 20.19+ o 22.12+.
+
+Terminal 1, backend:
 
 ```bash
-$ pip3 install flask && python3 server.py
+python -m venv .venv
+source .venv/bin/activate
+pip install -r backend/requirements.txt
+uvicorn backend.main:app --reload
 ```
 
-- You can create as many HTML files as you want.
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+Terminal 2, frontend:
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
+```bash
+npm install
+npm run dev
 ```
 
-- If you want to use Tailwind CSS, add it optionally via the official Tailwind CSS v4 CDN inside the same `<head>`:
-
-```html
-<head>
-  ...
-  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
-
-### Contributors
-
-This template was built as part of the [Full Stack Developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) at [4Geeks Academy Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and [many other contributors](https://github.com/4GeeksAcademy/html-hello/graphs/contributors).
+Abre `http://localhost:5173`. En desarrollo, Vite reenvía las llamadas `/api` al backend en `http://localhost:8000`, evitando problemas de conexión desde entornos remotos. Si el frontend y la API se despliegan por separado, define `VITE_API_URL` con la URL pública del backend.
 
 You can find other templates and resources like this at the [school's GitHub page](https://github.com/4geeksacademy/).
