@@ -25,5 +25,4505 @@
     "year": 1963,
     "stock_id": "STK-003",
     "stock": 0
+  },
+  {
+    "id": 4,
+    "title": "El jardín silencioso — 001",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 1950,
+    "stock_id": "STK-004",
+    "stock": 0
+  },
+  {
+    "id": 5,
+    "title": "El jardín perdido — 002",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1967,
+    "stock_id": "STK-005",
+    "stock": 13
+  },
+  {
+    "id": 6,
+    "title": "El jardín infinito — 003",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1984,
+    "stock_id": "STK-006",
+    "stock": 26
+  },
+  {
+    "id": 7,
+    "title": "El jardín olvidado — 004",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 2001,
+    "stock_id": "STK-007",
+    "stock": 39
+  },
+  {
+    "id": 8,
+    "title": "El jardín último — 005",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 2018,
+    "stock_id": "STK-008",
+    "stock": 1
+  },
+  {
+    "id": 9,
+    "title": "El jardín lejano — 006",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1958,
+    "stock_id": "STK-009",
+    "stock": 14
+  },
+  {
+    "id": 10,
+    "title": "El jardín secreto — 007",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1975,
+    "stock_id": "STK-010",
+    "stock": 27
+  },
+  {
+    "id": 11,
+    "title": "El jardín dorado — 008",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1992,
+    "stock_id": "STK-011",
+    "stock": 40
+  },
+  {
+    "id": 12,
+    "title": "El jardín azul — 009",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 2009,
+    "stock_id": "STK-012",
+    "stock": 2
+  },
+  {
+    "id": 13,
+    "title": "El jardín errante — 010",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 2026,
+    "stock_id": "STK-013",
+    "stock": 15
+  },
+  {
+    "id": 14,
+    "title": "El jardín antiguo — 011",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1966,
+    "stock_id": "STK-014",
+    "stock": 28
+  },
+  {
+    "id": 15,
+    "title": "El jardín luminoso — 012",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1983,
+    "stock_id": "STK-015",
+    "stock": 41
+  },
+  {
+    "id": 16,
+    "title": "El jardín roto — 013",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 2000,
+    "stock_id": "STK-016",
+    "stock": 3
+  },
+  {
+    "id": 17,
+    "title": "El jardín profundo — 014",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 2017,
+    "stock_id": "STK-017",
+    "stock": 16
+  },
+  {
+    "id": 18,
+    "title": "El jardín salvaje — 015",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1957,
+    "stock_id": "STK-018",
+    "stock": 29
+  },
+  {
+    "id": 19,
+    "title": "El jardín  breve — 016",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1974,
+    "stock_id": "STK-019",
+    "stock": 42
+  },
+  {
+    "id": 20,
+    "title": "El jardín invisible — 017",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1991,
+    "stock_id": "STK-020",
+    "stock": 4
+  },
+  {
+    "id": 21,
+    "title": "El jardín distante — 018",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 2008,
+    "stock_id": "STK-021",
+    "stock": 17
+  },
+  {
+    "id": 22,
+    "title": "El jardín nuevo — 019",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 2025,
+    "stock_id": "STK-022",
+    "stock": 30
+  },
+  {
+    "id": 23,
+    "title": "El jardín eterno — 020",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1965,
+    "stock_id": "STK-023",
+    "stock": 43
+  },
+  {
+    "id": 24,
+    "title": "El mapa silencioso — 021",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 1982,
+    "stock_id": "STK-024",
+    "stock": 5
+  },
+  {
+    "id": 25,
+    "title": "El mapa perdido — 022",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1999,
+    "stock_id": "STK-025",
+    "stock": 18
+  },
+  {
+    "id": 26,
+    "title": "El mapa infinito — 023",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 2016,
+    "stock_id": "STK-026",
+    "stock": 31
+  },
+  {
+    "id": 27,
+    "title": "El mapa olvidado — 024",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 1956,
+    "stock_id": "STK-027",
+    "stock": 44
+  },
+  {
+    "id": 28,
+    "title": "El mapa último — 025",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1973,
+    "stock_id": "STK-028",
+    "stock": 6
+  },
+  {
+    "id": 29,
+    "title": "El mapa lejano — 026",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1990,
+    "stock_id": "STK-029",
+    "stock": 19
+  },
+  {
+    "id": 30,
+    "title": "El mapa secreto — 027",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 2007,
+    "stock_id": "STK-030",
+    "stock": 32
+  },
+  {
+    "id": 31,
+    "title": "El mapa dorado — 028",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 2024,
+    "stock_id": "STK-031",
+    "stock": 45
+  },
+  {
+    "id": 32,
+    "title": "El mapa azul — 029",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1964,
+    "stock_id": "STK-032",
+    "stock": 7
+  },
+  {
+    "id": 33,
+    "title": "El mapa errante — 030",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 1981,
+    "stock_id": "STK-033",
+    "stock": 20
+  },
+  {
+    "id": 34,
+    "title": "El mapa antiguo — 031",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1998,
+    "stock_id": "STK-034",
+    "stock": 33
+  },
+  {
+    "id": 35,
+    "title": "El mapa luminoso — 032",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 2015,
+    "stock_id": "STK-035",
+    "stock": 46
+  },
+  {
+    "id": 36,
+    "title": "El mapa roto — 033",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1955,
+    "stock_id": "STK-036",
+    "stock": 8
+  },
+  {
+    "id": 37,
+    "title": "El mapa profundo — 034",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1972,
+    "stock_id": "STK-037",
+    "stock": 21
+  },
+  {
+    "id": 38,
+    "title": "El mapa salvaje — 035",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1989,
+    "stock_id": "STK-038",
+    "stock": 34
+  },
+  {
+    "id": 39,
+    "title": "El mapa  breve — 036",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 2006,
+    "stock_id": "STK-039",
+    "stock": 47
+  },
+  {
+    "id": 40,
+    "title": "El mapa invisible — 037",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 2023,
+    "stock_id": "STK-040",
+    "stock": 9
+  },
+  {
+    "id": 41,
+    "title": "El mapa distante — 038",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 1963,
+    "stock_id": "STK-041",
+    "stock": 22
+  },
+  {
+    "id": 42,
+    "title": "El mapa nuevo — 039",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1980,
+    "stock_id": "STK-042",
+    "stock": 35
+  },
+  {
+    "id": 43,
+    "title": "El mapa eterno — 040",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1997,
+    "stock_id": "STK-043",
+    "stock": 48
+  },
+  {
+    "id": 44,
+    "title": "El invierno silencioso — 041",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 2014,
+    "stock_id": "STK-044",
+    "stock": 10
+  },
+  {
+    "id": 45,
+    "title": "El invierno perdido — 042",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1954,
+    "stock_id": "STK-045",
+    "stock": 23
+  },
+  {
+    "id": 46,
+    "title": "El invierno infinito — 043",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1971,
+    "stock_id": "STK-046",
+    "stock": 36
+  },
+  {
+    "id": 47,
+    "title": "El invierno olvidado — 044",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 1988,
+    "stock_id": "STK-047",
+    "stock": 49
+  },
+  {
+    "id": 48,
+    "title": "El invierno último — 045",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 2005,
+    "stock_id": "STK-048",
+    "stock": 11
+  },
+  {
+    "id": 49,
+    "title": "El invierno lejano — 046",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 2022,
+    "stock_id": "STK-049",
+    "stock": 24
+  },
+  {
+    "id": 50,
+    "title": "El invierno secreto — 047",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1962,
+    "stock_id": "STK-050",
+    "stock": 37
+  },
+  {
+    "id": 51,
+    "title": "El invierno dorado — 048",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1979,
+    "stock_id": "STK-051",
+    "stock": 50
+  },
+  {
+    "id": 52,
+    "title": "El invierno azul — 049",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1996,
+    "stock_id": "STK-052",
+    "stock": 12
+  },
+  {
+    "id": 53,
+    "title": "El invierno errante — 050",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 2013,
+    "stock_id": "STK-053",
+    "stock": 25
+  },
+  {
+    "id": 54,
+    "title": "El invierno antiguo — 051",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1953,
+    "stock_id": "STK-054",
+    "stock": 38
+  },
+  {
+    "id": 55,
+    "title": "El invierno luminoso — 052",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1970,
+    "stock_id": "STK-055",
+    "stock": 0
+  },
+  {
+    "id": 56,
+    "title": "El invierno roto — 053",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1987,
+    "stock_id": "STK-056",
+    "stock": 13
+  },
+  {
+    "id": 57,
+    "title": "El invierno profundo — 054",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 2004,
+    "stock_id": "STK-057",
+    "stock": 26
+  },
+  {
+    "id": 58,
+    "title": "El invierno salvaje — 055",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 2021,
+    "stock_id": "STK-058",
+    "stock": 39
+  },
+  {
+    "id": 59,
+    "title": "El invierno  breve — 056",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1961,
+    "stock_id": "STK-059",
+    "stock": 1
+  },
+  {
+    "id": 60,
+    "title": "El invierno invisible — 057",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1978,
+    "stock_id": "STK-060",
+    "stock": 14
+  },
+  {
+    "id": 61,
+    "title": "El invierno distante — 058",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 1995,
+    "stock_id": "STK-061",
+    "stock": 27
+  },
+  {
+    "id": 62,
+    "title": "El invierno nuevo — 059",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 2012,
+    "stock_id": "STK-062",
+    "stock": 40
+  },
+  {
+    "id": 63,
+    "title": "El invierno eterno — 060",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1952,
+    "stock_id": "STK-063",
+    "stock": 2
+  },
+  {
+    "id": 64,
+    "title": "El océano silencioso — 061",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 1969,
+    "stock_id": "STK-064",
+    "stock": 15
+  },
+  {
+    "id": 65,
+    "title": "El océano perdido — 062",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1986,
+    "stock_id": "STK-065",
+    "stock": 28
+  },
+  {
+    "id": 66,
+    "title": "El océano infinito — 063",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 2003,
+    "stock_id": "STK-066",
+    "stock": 41
+  },
+  {
+    "id": 67,
+    "title": "El océano olvidado — 064",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 2020,
+    "stock_id": "STK-067",
+    "stock": 3
+  },
+  {
+    "id": 68,
+    "title": "El océano último — 065",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1960,
+    "stock_id": "STK-068",
+    "stock": 16
+  },
+  {
+    "id": 69,
+    "title": "El océano lejano — 066",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1977,
+    "stock_id": "STK-069",
+    "stock": 29
+  },
+  {
+    "id": 70,
+    "title": "El océano secreto — 067",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1994,
+    "stock_id": "STK-070",
+    "stock": 42
+  },
+  {
+    "id": 71,
+    "title": "El océano dorado — 068",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 2011,
+    "stock_id": "STK-071",
+    "stock": 4
+  },
+  {
+    "id": 72,
+    "title": "El océano azul — 069",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1951,
+    "stock_id": "STK-072",
+    "stock": 17
+  },
+  {
+    "id": 73,
+    "title": "El océano errante — 070",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 1968,
+    "stock_id": "STK-073",
+    "stock": 30
+  },
+  {
+    "id": 74,
+    "title": "El océano antiguo — 071",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1985,
+    "stock_id": "STK-074",
+    "stock": 43
+  },
+  {
+    "id": 75,
+    "title": "El océano luminoso — 072",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 2002,
+    "stock_id": "STK-075",
+    "stock": 5
+  },
+  {
+    "id": 76,
+    "title": "El océano roto — 073",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 2019,
+    "stock_id": "STK-076",
+    "stock": 18
+  },
+  {
+    "id": 77,
+    "title": "El océano profundo — 074",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1959,
+    "stock_id": "STK-077",
+    "stock": 31
+  },
+  {
+    "id": 78,
+    "title": "El océano salvaje — 075",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1976,
+    "stock_id": "STK-078",
+    "stock": 44
+  },
+  {
+    "id": 79,
+    "title": "El océano  breve — 076",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1993,
+    "stock_id": "STK-079",
+    "stock": 6
+  },
+  {
+    "id": 80,
+    "title": "El océano invisible — 077",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 2010,
+    "stock_id": "STK-080",
+    "stock": 19
+  },
+  {
+    "id": 81,
+    "title": "El océano distante — 078",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 1950,
+    "stock_id": "STK-081",
+    "stock": 32
+  },
+  {
+    "id": 82,
+    "title": "El océano nuevo — 079",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1967,
+    "stock_id": "STK-082",
+    "stock": 45
+  },
+  {
+    "id": 83,
+    "title": "El océano eterno — 080",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1984,
+    "stock_id": "STK-083",
+    "stock": 7
+  },
+  {
+    "id": 84,
+    "title": "El reloj silencioso — 081",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 2001,
+    "stock_id": "STK-084",
+    "stock": 20
+  },
+  {
+    "id": 85,
+    "title": "El reloj perdido — 082",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 2018,
+    "stock_id": "STK-085",
+    "stock": 33
+  },
+  {
+    "id": 86,
+    "title": "El reloj infinito — 083",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1958,
+    "stock_id": "STK-086",
+    "stock": 46
+  },
+  {
+    "id": 87,
+    "title": "El reloj olvidado — 084",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 1975,
+    "stock_id": "STK-087",
+    "stock": 8
+  },
+  {
+    "id": 88,
+    "title": "El reloj último — 085",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1992,
+    "stock_id": "STK-088",
+    "stock": 21
+  },
+  {
+    "id": 89,
+    "title": "El reloj lejano — 086",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 2009,
+    "stock_id": "STK-089",
+    "stock": 34
+  },
+  {
+    "id": 90,
+    "title": "El reloj secreto — 087",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 2026,
+    "stock_id": "STK-090",
+    "stock": 47
+  },
+  {
+    "id": 91,
+    "title": "El reloj dorado — 088",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1966,
+    "stock_id": "STK-091",
+    "stock": 9
+  },
+  {
+    "id": 92,
+    "title": "El reloj azul — 089",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1983,
+    "stock_id": "STK-092",
+    "stock": 22
+  },
+  {
+    "id": 93,
+    "title": "El reloj errante — 090",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 2000,
+    "stock_id": "STK-093",
+    "stock": 35
+  },
+  {
+    "id": 94,
+    "title": "El reloj antiguo — 091",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 2017,
+    "stock_id": "STK-094",
+    "stock": 48
+  },
+  {
+    "id": 95,
+    "title": "El reloj luminoso — 092",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1957,
+    "stock_id": "STK-095",
+    "stock": 10
+  },
+  {
+    "id": 96,
+    "title": "El reloj roto — 093",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1974,
+    "stock_id": "STK-096",
+    "stock": 23
+  },
+  {
+    "id": 97,
+    "title": "El reloj profundo — 094",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1991,
+    "stock_id": "STK-097",
+    "stock": 36
+  },
+  {
+    "id": 98,
+    "title": "El reloj salvaje — 095",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 2008,
+    "stock_id": "STK-098",
+    "stock": 49
+  },
+  {
+    "id": 99,
+    "title": "El reloj  breve — 096",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 2025,
+    "stock_id": "STK-099",
+    "stock": 11
+  },
+  {
+    "id": 100,
+    "title": "El reloj invisible — 097",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1965,
+    "stock_id": "STK-100",
+    "stock": 24
+  },
+  {
+    "id": 101,
+    "title": "El reloj distante — 098",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 1982,
+    "stock_id": "STK-101",
+    "stock": 37
+  },
+  {
+    "id": 102,
+    "title": "El reloj nuevo — 099",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1999,
+    "stock_id": "STK-102",
+    "stock": 50
+  },
+  {
+    "id": 103,
+    "title": "El reloj eterno — 100",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 2016,
+    "stock_id": "STK-103",
+    "stock": 12
+  },
+  {
+    "id": 104,
+    "title": "El bosque silencioso — 101",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 1956,
+    "stock_id": "STK-104",
+    "stock": 25
+  },
+  {
+    "id": 105,
+    "title": "El bosque perdido — 102",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1973,
+    "stock_id": "STK-105",
+    "stock": 38
+  },
+  {
+    "id": 106,
+    "title": "El bosque infinito — 103",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1990,
+    "stock_id": "STK-106",
+    "stock": 0
+  },
+  {
+    "id": 107,
+    "title": "El bosque olvidado — 104",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 2007,
+    "stock_id": "STK-107",
+    "stock": 13
+  },
+  {
+    "id": 108,
+    "title": "El bosque último — 105",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 2024,
+    "stock_id": "STK-108",
+    "stock": 26
+  },
+  {
+    "id": 109,
+    "title": "El bosque lejano — 106",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1964,
+    "stock_id": "STK-109",
+    "stock": 39
+  },
+  {
+    "id": 110,
+    "title": "El bosque secreto — 107",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1981,
+    "stock_id": "STK-110",
+    "stock": 1
+  },
+  {
+    "id": 111,
+    "title": "El bosque dorado — 108",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1998,
+    "stock_id": "STK-111",
+    "stock": 14
+  },
+  {
+    "id": 112,
+    "title": "El bosque azul — 109",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 2015,
+    "stock_id": "STK-112",
+    "stock": 27
+  },
+  {
+    "id": 113,
+    "title": "El bosque errante — 110",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 1955,
+    "stock_id": "STK-113",
+    "stock": 40
+  },
+  {
+    "id": 114,
+    "title": "El bosque antiguo — 111",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1972,
+    "stock_id": "STK-114",
+    "stock": 2
+  },
+  {
+    "id": 115,
+    "title": "El bosque luminoso — 112",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1989,
+    "stock_id": "STK-115",
+    "stock": 15
+  },
+  {
+    "id": 116,
+    "title": "El bosque roto — 113",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 2006,
+    "stock_id": "STK-116",
+    "stock": 28
+  },
+  {
+    "id": 117,
+    "title": "El bosque profundo — 114",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 2023,
+    "stock_id": "STK-117",
+    "stock": 41
+  },
+  {
+    "id": 118,
+    "title": "El bosque salvaje — 115",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1963,
+    "stock_id": "STK-118",
+    "stock": 3
+  },
+  {
+    "id": 119,
+    "title": "El bosque  breve — 116",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1980,
+    "stock_id": "STK-119",
+    "stock": 16
+  },
+  {
+    "id": 120,
+    "title": "El bosque invisible — 117",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1997,
+    "stock_id": "STK-120",
+    "stock": 29
+  },
+  {
+    "id": 121,
+    "title": "El bosque distante — 118",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 2014,
+    "stock_id": "STK-121",
+    "stock": 42
+  },
+  {
+    "id": 122,
+    "title": "El bosque nuevo — 119",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1954,
+    "stock_id": "STK-122",
+    "stock": 4
+  },
+  {
+    "id": 123,
+    "title": "El bosque eterno — 120",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1971,
+    "stock_id": "STK-123",
+    "stock": 17
+  },
+  {
+    "id": 124,
+    "title": "El puente silencioso — 121",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 1988,
+    "stock_id": "STK-124",
+    "stock": 30
+  },
+  {
+    "id": 125,
+    "title": "El puente perdido — 122",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 2005,
+    "stock_id": "STK-125",
+    "stock": 43
+  },
+  {
+    "id": 126,
+    "title": "El puente infinito — 123",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 2022,
+    "stock_id": "STK-126",
+    "stock": 5
+  },
+  {
+    "id": 127,
+    "title": "El puente olvidado — 124",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 1962,
+    "stock_id": "STK-127",
+    "stock": 18
+  },
+  {
+    "id": 128,
+    "title": "El puente último — 125",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1979,
+    "stock_id": "STK-128",
+    "stock": 31
+  },
+  {
+    "id": 129,
+    "title": "El puente lejano — 126",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1996,
+    "stock_id": "STK-129",
+    "stock": 44
+  },
+  {
+    "id": 130,
+    "title": "El puente secreto — 127",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 2013,
+    "stock_id": "STK-130",
+    "stock": 6
+  },
+  {
+    "id": 131,
+    "title": "El puente dorado — 128",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1953,
+    "stock_id": "STK-131",
+    "stock": 19
+  },
+  {
+    "id": 132,
+    "title": "El puente azul — 129",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1970,
+    "stock_id": "STK-132",
+    "stock": 32
+  },
+  {
+    "id": 133,
+    "title": "El puente errante — 130",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 1987,
+    "stock_id": "STK-133",
+    "stock": 45
+  },
+  {
+    "id": 134,
+    "title": "El puente antiguo — 131",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 2004,
+    "stock_id": "STK-134",
+    "stock": 7
+  },
+  {
+    "id": 135,
+    "title": "El puente luminoso — 132",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 2021,
+    "stock_id": "STK-135",
+    "stock": 20
+  },
+  {
+    "id": 136,
+    "title": "El puente roto — 133",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1961,
+    "stock_id": "STK-136",
+    "stock": 33
+  },
+  {
+    "id": 137,
+    "title": "El puente profundo — 134",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1978,
+    "stock_id": "STK-137",
+    "stock": 46
+  },
+  {
+    "id": 138,
+    "title": "El puente salvaje — 135",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1995,
+    "stock_id": "STK-138",
+    "stock": 8
+  },
+  {
+    "id": 139,
+    "title": "El puente  breve — 136",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 2012,
+    "stock_id": "STK-139",
+    "stock": 21
+  },
+  {
+    "id": 140,
+    "title": "El puente invisible — 137",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1952,
+    "stock_id": "STK-140",
+    "stock": 34
+  },
+  {
+    "id": 141,
+    "title": "El puente distante — 138",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 1969,
+    "stock_id": "STK-141",
+    "stock": 47
+  },
+  {
+    "id": 142,
+    "title": "El puente nuevo — 139",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1986,
+    "stock_id": "STK-142",
+    "stock": 9
+  },
+  {
+    "id": 143,
+    "title": "El puente eterno — 140",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 2003,
+    "stock_id": "STK-143",
+    "stock": 22
+  },
+  {
+    "id": 144,
+    "title": "El archivo silencioso — 141",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 2020,
+    "stock_id": "STK-144",
+    "stock": 35
+  },
+  {
+    "id": 145,
+    "title": "El archivo perdido — 142",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1960,
+    "stock_id": "STK-145",
+    "stock": 48
+  },
+  {
+    "id": 146,
+    "title": "El archivo infinito — 143",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1977,
+    "stock_id": "STK-146",
+    "stock": 10
+  },
+  {
+    "id": 147,
+    "title": "El archivo olvidado — 144",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 1994,
+    "stock_id": "STK-147",
+    "stock": 23
+  },
+  {
+    "id": 148,
+    "title": "El archivo último — 145",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 2011,
+    "stock_id": "STK-148",
+    "stock": 36
+  },
+  {
+    "id": 149,
+    "title": "El archivo lejano — 146",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1951,
+    "stock_id": "STK-149",
+    "stock": 49
+  },
+  {
+    "id": 150,
+    "title": "El archivo secreto — 147",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1968,
+    "stock_id": "STK-150",
+    "stock": 11
+  },
+  {
+    "id": 151,
+    "title": "El archivo dorado — 148",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1985,
+    "stock_id": "STK-151",
+    "stock": 24
+  },
+  {
+    "id": 152,
+    "title": "El archivo azul — 149",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 2002,
+    "stock_id": "STK-152",
+    "stock": 37
+  },
+  {
+    "id": 153,
+    "title": "El archivo errante — 150",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 2019,
+    "stock_id": "STK-153",
+    "stock": 50
+  },
+  {
+    "id": 154,
+    "title": "El archivo antiguo — 151",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1959,
+    "stock_id": "STK-154",
+    "stock": 12
+  },
+  {
+    "id": 155,
+    "title": "El archivo luminoso — 152",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1976,
+    "stock_id": "STK-155",
+    "stock": 25
+  },
+  {
+    "id": 156,
+    "title": "El archivo roto — 153",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1993,
+    "stock_id": "STK-156",
+    "stock": 38
+  },
+  {
+    "id": 157,
+    "title": "El archivo profundo — 154",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 2010,
+    "stock_id": "STK-157",
+    "stock": 0
+  },
+  {
+    "id": 158,
+    "title": "El archivo salvaje — 155",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1950,
+    "stock_id": "STK-158",
+    "stock": 13
+  },
+  {
+    "id": 159,
+    "title": "El archivo  breve — 156",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1967,
+    "stock_id": "STK-159",
+    "stock": 26
+  },
+  {
+    "id": 160,
+    "title": "El archivo invisible — 157",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1984,
+    "stock_id": "STK-160",
+    "stock": 39
+  },
+  {
+    "id": 161,
+    "title": "El archivo distante — 158",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 2001,
+    "stock_id": "STK-161",
+    "stock": 1
+  },
+  {
+    "id": 162,
+    "title": "El archivo nuevo — 159",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 2018,
+    "stock_id": "STK-162",
+    "stock": 14
+  },
+  {
+    "id": 163,
+    "title": "El archivo eterno — 160",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1958,
+    "stock_id": "STK-163",
+    "stock": 27
+  },
+  {
+    "id": 164,
+    "title": "El viaje silencioso — 161",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 1975,
+    "stock_id": "STK-164",
+    "stock": 40
+  },
+  {
+    "id": 165,
+    "title": "El viaje perdido — 162",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1992,
+    "stock_id": "STK-165",
+    "stock": 2
+  },
+  {
+    "id": 166,
+    "title": "El viaje infinito — 163",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 2009,
+    "stock_id": "STK-166",
+    "stock": 15
+  },
+  {
+    "id": 167,
+    "title": "El viaje olvidado — 164",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 2026,
+    "stock_id": "STK-167",
+    "stock": 28
+  },
+  {
+    "id": 168,
+    "title": "El viaje último — 165",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1966,
+    "stock_id": "STK-168",
+    "stock": 41
+  },
+  {
+    "id": 169,
+    "title": "El viaje lejano — 166",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1983,
+    "stock_id": "STK-169",
+    "stock": 3
+  },
+  {
+    "id": 170,
+    "title": "El viaje secreto — 167",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 2000,
+    "stock_id": "STK-170",
+    "stock": 16
+  },
+  {
+    "id": 171,
+    "title": "El viaje dorado — 168",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 2017,
+    "stock_id": "STK-171",
+    "stock": 29
+  },
+  {
+    "id": 172,
+    "title": "El viaje azul — 169",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1957,
+    "stock_id": "STK-172",
+    "stock": 42
+  },
+  {
+    "id": 173,
+    "title": "El viaje errante — 170",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 1974,
+    "stock_id": "STK-173",
+    "stock": 4
+  },
+  {
+    "id": 174,
+    "title": "El viaje antiguo — 171",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1991,
+    "stock_id": "STK-174",
+    "stock": 17
+  },
+  {
+    "id": 175,
+    "title": "El viaje luminoso — 172",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 2008,
+    "stock_id": "STK-175",
+    "stock": 30
+  },
+  {
+    "id": 176,
+    "title": "El viaje roto — 173",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 2025,
+    "stock_id": "STK-176",
+    "stock": 43
+  },
+  {
+    "id": 177,
+    "title": "El viaje profundo — 174",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1965,
+    "stock_id": "STK-177",
+    "stock": 5
+  },
+  {
+    "id": 178,
+    "title": "El viaje salvaje — 175",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1982,
+    "stock_id": "STK-178",
+    "stock": 18
+  },
+  {
+    "id": 179,
+    "title": "El viaje  breve — 176",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1999,
+    "stock_id": "STK-179",
+    "stock": 31
+  },
+  {
+    "id": 180,
+    "title": "El viaje invisible — 177",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 2016,
+    "stock_id": "STK-180",
+    "stock": 44
+  },
+  {
+    "id": 181,
+    "title": "El viaje distante — 178",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 1956,
+    "stock_id": "STK-181",
+    "stock": 6
+  },
+  {
+    "id": 182,
+    "title": "El viaje nuevo — 179",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1973,
+    "stock_id": "STK-182",
+    "stock": 19
+  },
+  {
+    "id": 183,
+    "title": "El viaje eterno — 180",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1990,
+    "stock_id": "STK-183",
+    "stock": 32
+  },
+  {
+    "id": 184,
+    "title": "El espejo silencioso — 181",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 2007,
+    "stock_id": "STK-184",
+    "stock": 45
+  },
+  {
+    "id": 185,
+    "title": "El espejo perdido — 182",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 2024,
+    "stock_id": "STK-185",
+    "stock": 7
+  },
+  {
+    "id": 186,
+    "title": "El espejo infinito — 183",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1964,
+    "stock_id": "STK-186",
+    "stock": 20
+  },
+  {
+    "id": 187,
+    "title": "El espejo olvidado — 184",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 1981,
+    "stock_id": "STK-187",
+    "stock": 33
+  },
+  {
+    "id": 188,
+    "title": "El espejo último — 185",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1998,
+    "stock_id": "STK-188",
+    "stock": 46
+  },
+  {
+    "id": 189,
+    "title": "El espejo lejano — 186",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 2015,
+    "stock_id": "STK-189",
+    "stock": 8
+  },
+  {
+    "id": 190,
+    "title": "El espejo secreto — 187",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1955,
+    "stock_id": "STK-190",
+    "stock": 21
+  },
+  {
+    "id": 191,
+    "title": "El espejo dorado — 188",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1972,
+    "stock_id": "STK-191",
+    "stock": 34
+  },
+  {
+    "id": 192,
+    "title": "El espejo azul — 189",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1989,
+    "stock_id": "STK-192",
+    "stock": 47
+  },
+  {
+    "id": 193,
+    "title": "El espejo errante — 190",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 2006,
+    "stock_id": "STK-193",
+    "stock": 9
+  },
+  {
+    "id": 194,
+    "title": "El espejo antiguo — 191",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 2023,
+    "stock_id": "STK-194",
+    "stock": 22
+  },
+  {
+    "id": 195,
+    "title": "El espejo luminoso — 192",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1963,
+    "stock_id": "STK-195",
+    "stock": 35
+  },
+  {
+    "id": 196,
+    "title": "El espejo roto — 193",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1980,
+    "stock_id": "STK-196",
+    "stock": 48
+  },
+  {
+    "id": 197,
+    "title": "El espejo profundo — 194",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1997,
+    "stock_id": "STK-197",
+    "stock": 10
+  },
+  {
+    "id": 198,
+    "title": "El espejo salvaje — 195",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 2014,
+    "stock_id": "STK-198",
+    "stock": 23
+  },
+  {
+    "id": 199,
+    "title": "El espejo  breve — 196",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1954,
+    "stock_id": "STK-199",
+    "stock": 36
+  },
+  {
+    "id": 200,
+    "title": "El espejo invisible — 197",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1971,
+    "stock_id": "STK-200",
+    "stock": 49
+  },
+  {
+    "id": 201,
+    "title": "El espejo distante — 198",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 1988,
+    "stock_id": "STK-201",
+    "stock": 11
+  },
+  {
+    "id": 202,
+    "title": "El espejo nuevo — 199",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 2005,
+    "stock_id": "STK-202",
+    "stock": 24
+  },
+  {
+    "id": 203,
+    "title": "El espejo eterno — 200",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 2022,
+    "stock_id": "STK-203",
+    "stock": 37
+  },
+  {
+    "id": 204,
+    "title": "El puerto silencioso — 201",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 1962,
+    "stock_id": "STK-204",
+    "stock": 50
+  },
+  {
+    "id": 205,
+    "title": "El puerto perdido — 202",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1979,
+    "stock_id": "STK-205",
+    "stock": 12
+  },
+  {
+    "id": 206,
+    "title": "El puerto infinito — 203",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1996,
+    "stock_id": "STK-206",
+    "stock": 25
+  },
+  {
+    "id": 207,
+    "title": "El puerto olvidado — 204",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 2013,
+    "stock_id": "STK-207",
+    "stock": 38
+  },
+  {
+    "id": 208,
+    "title": "El puerto último — 205",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1953,
+    "stock_id": "STK-208",
+    "stock": 0
+  },
+  {
+    "id": 209,
+    "title": "El puerto lejano — 206",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1970,
+    "stock_id": "STK-209",
+    "stock": 13
+  },
+  {
+    "id": 210,
+    "title": "El puerto secreto — 207",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1987,
+    "stock_id": "STK-210",
+    "stock": 26
+  },
+  {
+    "id": 211,
+    "title": "El puerto dorado — 208",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 2004,
+    "stock_id": "STK-211",
+    "stock": 39
+  },
+  {
+    "id": 212,
+    "title": "El puerto azul — 209",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 2021,
+    "stock_id": "STK-212",
+    "stock": 1
+  },
+  {
+    "id": 213,
+    "title": "El puerto errante — 210",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 1961,
+    "stock_id": "STK-213",
+    "stock": 14
+  },
+  {
+    "id": 214,
+    "title": "El puerto antiguo — 211",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1978,
+    "stock_id": "STK-214",
+    "stock": 27
+  },
+  {
+    "id": 215,
+    "title": "El puerto luminoso — 212",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1995,
+    "stock_id": "STK-215",
+    "stock": 40
+  },
+  {
+    "id": 216,
+    "title": "El puerto roto — 213",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 2012,
+    "stock_id": "STK-216",
+    "stock": 2
+  },
+  {
+    "id": 217,
+    "title": "El puerto profundo — 214",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1952,
+    "stock_id": "STK-217",
+    "stock": 15
+  },
+  {
+    "id": 218,
+    "title": "El puerto salvaje — 215",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1969,
+    "stock_id": "STK-218",
+    "stock": 28
+  },
+  {
+    "id": 219,
+    "title": "El puerto  breve — 216",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1986,
+    "stock_id": "STK-219",
+    "stock": 41
+  },
+  {
+    "id": 220,
+    "title": "El puerto invisible — 217",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 2003,
+    "stock_id": "STK-220",
+    "stock": 3
+  },
+  {
+    "id": 221,
+    "title": "El puerto distante — 218",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 2020,
+    "stock_id": "STK-221",
+    "stock": 16
+  },
+  {
+    "id": 222,
+    "title": "El puerto nuevo — 219",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1960,
+    "stock_id": "STK-222",
+    "stock": 29
+  },
+  {
+    "id": 223,
+    "title": "El puerto eterno — 220",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1977,
+    "stock_id": "STK-223",
+    "stock": 42
+  },
+  {
+    "id": 224,
+    "title": "El fuego silencioso — 221",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 1994,
+    "stock_id": "STK-224",
+    "stock": 4
+  },
+  {
+    "id": 225,
+    "title": "El fuego perdido — 222",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 2011,
+    "stock_id": "STK-225",
+    "stock": 17
+  },
+  {
+    "id": 226,
+    "title": "El fuego infinito — 223",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1951,
+    "stock_id": "STK-226",
+    "stock": 30
+  },
+  {
+    "id": 227,
+    "title": "El fuego olvidado — 224",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 1968,
+    "stock_id": "STK-227",
+    "stock": 43
+  },
+  {
+    "id": 228,
+    "title": "El fuego último — 225",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1985,
+    "stock_id": "STK-228",
+    "stock": 5
+  },
+  {
+    "id": 229,
+    "title": "El fuego lejano — 226",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 2002,
+    "stock_id": "STK-229",
+    "stock": 18
+  },
+  {
+    "id": 230,
+    "title": "El fuego secreto — 227",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 2019,
+    "stock_id": "STK-230",
+    "stock": 31
+  },
+  {
+    "id": 231,
+    "title": "El fuego dorado — 228",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1959,
+    "stock_id": "STK-231",
+    "stock": 44
+  },
+  {
+    "id": 232,
+    "title": "El fuego azul — 229",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1976,
+    "stock_id": "STK-232",
+    "stock": 6
+  },
+  {
+    "id": 233,
+    "title": "El fuego errante — 230",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 1993,
+    "stock_id": "STK-233",
+    "stock": 19
+  },
+  {
+    "id": 234,
+    "title": "El fuego antiguo — 231",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 2010,
+    "stock_id": "STK-234",
+    "stock": 32
+  },
+  {
+    "id": 235,
+    "title": "El fuego luminoso — 232",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1950,
+    "stock_id": "STK-235",
+    "stock": 45
+  },
+  {
+    "id": 236,
+    "title": "El fuego roto — 233",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1967,
+    "stock_id": "STK-236",
+    "stock": 7
+  },
+  {
+    "id": 237,
+    "title": "El fuego profundo — 234",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1984,
+    "stock_id": "STK-237",
+    "stock": 20
+  },
+  {
+    "id": 238,
+    "title": "El fuego salvaje — 235",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 2001,
+    "stock_id": "STK-238",
+    "stock": 33
+  },
+  {
+    "id": 239,
+    "title": "El fuego  breve — 236",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 2018,
+    "stock_id": "STK-239",
+    "stock": 46
+  },
+  {
+    "id": 240,
+    "title": "El fuego invisible — 237",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1958,
+    "stock_id": "STK-240",
+    "stock": 8
+  },
+  {
+    "id": 241,
+    "title": "El fuego distante — 238",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 1975,
+    "stock_id": "STK-241",
+    "stock": 21
+  },
+  {
+    "id": 242,
+    "title": "El fuego nuevo — 239",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1992,
+    "stock_id": "STK-242",
+    "stock": 34
+  },
+  {
+    "id": 243,
+    "title": "El fuego eterno — 240",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 2009,
+    "stock_id": "STK-243",
+    "stock": 47
+  },
+  {
+    "id": 244,
+    "title": "El río silencioso — 241",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 2026,
+    "stock_id": "STK-244",
+    "stock": 9
+  },
+  {
+    "id": 245,
+    "title": "El río perdido — 242",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1966,
+    "stock_id": "STK-245",
+    "stock": 22
+  },
+  {
+    "id": 246,
+    "title": "El río infinito — 243",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1983,
+    "stock_id": "STK-246",
+    "stock": 35
+  },
+  {
+    "id": 247,
+    "title": "El río olvidado — 244",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 2000,
+    "stock_id": "STK-247",
+    "stock": 48
+  },
+  {
+    "id": 248,
+    "title": "El río último — 245",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 2017,
+    "stock_id": "STK-248",
+    "stock": 10
+  },
+  {
+    "id": 249,
+    "title": "El río lejano — 246",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1957,
+    "stock_id": "STK-249",
+    "stock": 23
+  },
+  {
+    "id": 250,
+    "title": "El río secreto — 247",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1974,
+    "stock_id": "STK-250",
+    "stock": 36
+  },
+  {
+    "id": 251,
+    "title": "El río dorado — 248",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1991,
+    "stock_id": "STK-251",
+    "stock": 49
+  },
+  {
+    "id": 252,
+    "title": "El río azul — 249",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 2008,
+    "stock_id": "STK-252",
+    "stock": 11
+  },
+  {
+    "id": 253,
+    "title": "El río errante — 250",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 2025,
+    "stock_id": "STK-253",
+    "stock": 24
+  },
+  {
+    "id": 254,
+    "title": "El río antiguo — 251",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1965,
+    "stock_id": "STK-254",
+    "stock": 37
+  },
+  {
+    "id": 255,
+    "title": "El río luminoso — 252",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1982,
+    "stock_id": "STK-255",
+    "stock": 50
+  },
+  {
+    "id": 256,
+    "title": "El río roto — 253",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1999,
+    "stock_id": "STK-256",
+    "stock": 12
+  },
+  {
+    "id": 257,
+    "title": "El río profundo — 254",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 2016,
+    "stock_id": "STK-257",
+    "stock": 25
+  },
+  {
+    "id": 258,
+    "title": "El río salvaje — 255",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1956,
+    "stock_id": "STK-258",
+    "stock": 38
+  },
+  {
+    "id": 259,
+    "title": "El río  breve — 256",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1973,
+    "stock_id": "STK-259",
+    "stock": 0
+  },
+  {
+    "id": 260,
+    "title": "El río invisible — 257",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1990,
+    "stock_id": "STK-260",
+    "stock": 13
+  },
+  {
+    "id": 261,
+    "title": "El río distante — 258",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 2007,
+    "stock_id": "STK-261",
+    "stock": 26
+  },
+  {
+    "id": 262,
+    "title": "El río nuevo — 259",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 2024,
+    "stock_id": "STK-262",
+    "stock": 39
+  },
+  {
+    "id": 263,
+    "title": "El río eterno — 260",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1964,
+    "stock_id": "STK-263",
+    "stock": 1
+  },
+  {
+    "id": 264,
+    "title": "El umbral silencioso — 261",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 1981,
+    "stock_id": "STK-264",
+    "stock": 14
+  },
+  {
+    "id": 265,
+    "title": "El umbral perdido — 262",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1998,
+    "stock_id": "STK-265",
+    "stock": 27
+  },
+  {
+    "id": 266,
+    "title": "El umbral infinito — 263",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 2015,
+    "stock_id": "STK-266",
+    "stock": 40
+  },
+  {
+    "id": 267,
+    "title": "El umbral olvidado — 264",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 1955,
+    "stock_id": "STK-267",
+    "stock": 2
+  },
+  {
+    "id": 268,
+    "title": "El umbral último — 265",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1972,
+    "stock_id": "STK-268",
+    "stock": 15
+  },
+  {
+    "id": 269,
+    "title": "El umbral lejano — 266",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1989,
+    "stock_id": "STK-269",
+    "stock": 28
+  },
+  {
+    "id": 270,
+    "title": "El umbral secreto — 267",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 2006,
+    "stock_id": "STK-270",
+    "stock": 41
+  },
+  {
+    "id": 271,
+    "title": "El umbral dorado — 268",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 2023,
+    "stock_id": "STK-271",
+    "stock": 3
+  },
+  {
+    "id": 272,
+    "title": "El umbral azul — 269",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1963,
+    "stock_id": "STK-272",
+    "stock": 16
+  },
+  {
+    "id": 273,
+    "title": "El umbral errante — 270",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 1980,
+    "stock_id": "STK-273",
+    "stock": 29
+  },
+  {
+    "id": 274,
+    "title": "El umbral antiguo — 271",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1997,
+    "stock_id": "STK-274",
+    "stock": 42
+  },
+  {
+    "id": 275,
+    "title": "El umbral luminoso — 272",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 2014,
+    "stock_id": "STK-275",
+    "stock": 4
+  },
+  {
+    "id": 276,
+    "title": "El umbral roto — 273",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1954,
+    "stock_id": "STK-276",
+    "stock": 17
+  },
+  {
+    "id": 277,
+    "title": "El umbral profundo — 274",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1971,
+    "stock_id": "STK-277",
+    "stock": 30
+  },
+  {
+    "id": 278,
+    "title": "El umbral salvaje — 275",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1988,
+    "stock_id": "STK-278",
+    "stock": 43
+  },
+  {
+    "id": 279,
+    "title": "El umbral  breve — 276",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 2005,
+    "stock_id": "STK-279",
+    "stock": 5
+  },
+  {
+    "id": 280,
+    "title": "El umbral invisible — 277",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 2022,
+    "stock_id": "STK-280",
+    "stock": 18
+  },
+  {
+    "id": 281,
+    "title": "El umbral distante — 278",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 1962,
+    "stock_id": "STK-281",
+    "stock": 31
+  },
+  {
+    "id": 282,
+    "title": "El umbral nuevo — 279",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1979,
+    "stock_id": "STK-282",
+    "stock": 44
+  },
+  {
+    "id": 283,
+    "title": "El umbral eterno — 280",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1996,
+    "stock_id": "STK-283",
+    "stock": 6
+  },
+  {
+    "id": 284,
+    "title": "El laberinto silencioso — 281",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 2013,
+    "stock_id": "STK-284",
+    "stock": 19
+  },
+  {
+    "id": 285,
+    "title": "El laberinto perdido — 282",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1953,
+    "stock_id": "STK-285",
+    "stock": 32
+  },
+  {
+    "id": 286,
+    "title": "El laberinto infinito — 283",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1970,
+    "stock_id": "STK-286",
+    "stock": 45
+  },
+  {
+    "id": 287,
+    "title": "El laberinto olvidado — 284",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 1987,
+    "stock_id": "STK-287",
+    "stock": 7
+  },
+  {
+    "id": 288,
+    "title": "El laberinto último — 285",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 2004,
+    "stock_id": "STK-288",
+    "stock": 20
+  },
+  {
+    "id": 289,
+    "title": "El laberinto lejano — 286",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 2021,
+    "stock_id": "STK-289",
+    "stock": 33
+  },
+  {
+    "id": 290,
+    "title": "El laberinto secreto — 287",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1961,
+    "stock_id": "STK-290",
+    "stock": 46
+  },
+  {
+    "id": 291,
+    "title": "El laberinto dorado — 288",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1978,
+    "stock_id": "STK-291",
+    "stock": 8
+  },
+  {
+    "id": 292,
+    "title": "El laberinto azul — 289",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1995,
+    "stock_id": "STK-292",
+    "stock": 21
+  },
+  {
+    "id": 293,
+    "title": "El laberinto errante — 290",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 2012,
+    "stock_id": "STK-293",
+    "stock": 34
+  },
+  {
+    "id": 294,
+    "title": "El laberinto antiguo — 291",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1952,
+    "stock_id": "STK-294",
+    "stock": 47
+  },
+  {
+    "id": 295,
+    "title": "El laberinto luminoso — 292",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1969,
+    "stock_id": "STK-295",
+    "stock": 9
+  },
+  {
+    "id": 296,
+    "title": "El laberinto roto — 293",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1986,
+    "stock_id": "STK-296",
+    "stock": 22
+  },
+  {
+    "id": 297,
+    "title": "El laberinto profundo — 294",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 2003,
+    "stock_id": "STK-297",
+    "stock": 35
+  },
+  {
+    "id": 298,
+    "title": "El laberinto salvaje — 295",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 2020,
+    "stock_id": "STK-298",
+    "stock": 48
+  },
+  {
+    "id": 299,
+    "title": "El laberinto  breve — 296",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1960,
+    "stock_id": "STK-299",
+    "stock": 10
+  },
+  {
+    "id": 300,
+    "title": "El laberinto invisible — 297",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1977,
+    "stock_id": "STK-300",
+    "stock": 23
+  },
+  {
+    "id": 301,
+    "title": "El laberinto distante — 298",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 1994,
+    "stock_id": "STK-301",
+    "stock": 36
+  },
+  {
+    "id": 302,
+    "title": "El laberinto nuevo — 299",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 2011,
+    "stock_id": "STK-302",
+    "stock": 49
+  },
+  {
+    "id": 303,
+    "title": "El laberinto eterno — 300",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1951,
+    "stock_id": "STK-303",
+    "stock": 11
+  },
+  {
+    "id": 304,
+    "title": "El cielo silencioso — 301",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 1968,
+    "stock_id": "STK-304",
+    "stock": 24
+  },
+  {
+    "id": 305,
+    "title": "El cielo perdido — 302",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1985,
+    "stock_id": "STK-305",
+    "stock": 37
+  },
+  {
+    "id": 306,
+    "title": "El cielo infinito — 303",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 2002,
+    "stock_id": "STK-306",
+    "stock": 50
+  },
+  {
+    "id": 307,
+    "title": "El cielo olvidado — 304",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 2019,
+    "stock_id": "STK-307",
+    "stock": 12
+  },
+  {
+    "id": 308,
+    "title": "El cielo último — 305",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1959,
+    "stock_id": "STK-308",
+    "stock": 25
+  },
+  {
+    "id": 309,
+    "title": "El cielo lejano — 306",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1976,
+    "stock_id": "STK-309",
+    "stock": 38
+  },
+  {
+    "id": 310,
+    "title": "El cielo secreto — 307",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1993,
+    "stock_id": "STK-310",
+    "stock": 0
+  },
+  {
+    "id": 311,
+    "title": "El cielo dorado — 308",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 2010,
+    "stock_id": "STK-311",
+    "stock": 13
+  },
+  {
+    "id": 312,
+    "title": "El cielo azul — 309",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1950,
+    "stock_id": "STK-312",
+    "stock": 26
+  },
+  {
+    "id": 313,
+    "title": "El cielo errante — 310",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 1967,
+    "stock_id": "STK-313",
+    "stock": 39
+  },
+  {
+    "id": 314,
+    "title": "El cielo antiguo — 311",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1984,
+    "stock_id": "STK-314",
+    "stock": 1
+  },
+  {
+    "id": 315,
+    "title": "El cielo luminoso — 312",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 2001,
+    "stock_id": "STK-315",
+    "stock": 14
+  },
+  {
+    "id": 316,
+    "title": "El cielo roto — 313",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 2018,
+    "stock_id": "STK-316",
+    "stock": 27
+  },
+  {
+    "id": 317,
+    "title": "El cielo profundo — 314",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1958,
+    "stock_id": "STK-317",
+    "stock": 40
+  },
+  {
+    "id": 318,
+    "title": "El cielo salvaje — 315",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1975,
+    "stock_id": "STK-318",
+    "stock": 2
+  },
+  {
+    "id": 319,
+    "title": "El cielo  breve — 316",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1992,
+    "stock_id": "STK-319",
+    "stock": 15
+  },
+  {
+    "id": 320,
+    "title": "El cielo invisible — 317",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 2009,
+    "stock_id": "STK-320",
+    "stock": 28
+  },
+  {
+    "id": 321,
+    "title": "El cielo distante — 318",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 2026,
+    "stock_id": "STK-321",
+    "stock": 41
+  },
+  {
+    "id": 322,
+    "title": "El cielo nuevo — 319",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1966,
+    "stock_id": "STK-322",
+    "stock": 3
+  },
+  {
+    "id": 323,
+    "title": "El cielo eterno — 320",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1983,
+    "stock_id": "STK-323",
+    "stock": 16
+  },
+  {
+    "id": 324,
+    "title": "El tren silencioso — 321",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 2000,
+    "stock_id": "STK-324",
+    "stock": 29
+  },
+  {
+    "id": 325,
+    "title": "El tren perdido — 322",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 2017,
+    "stock_id": "STK-325",
+    "stock": 42
+  },
+  {
+    "id": 326,
+    "title": "El tren infinito — 323",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1957,
+    "stock_id": "STK-326",
+    "stock": 4
+  },
+  {
+    "id": 327,
+    "title": "El tren olvidado — 324",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 1974,
+    "stock_id": "STK-327",
+    "stock": 17
+  },
+  {
+    "id": 328,
+    "title": "El tren último — 325",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1991,
+    "stock_id": "STK-328",
+    "stock": 30
+  },
+  {
+    "id": 329,
+    "title": "El tren lejano — 326",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 2008,
+    "stock_id": "STK-329",
+    "stock": 43
+  },
+  {
+    "id": 330,
+    "title": "El tren secreto — 327",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 2025,
+    "stock_id": "STK-330",
+    "stock": 5
+  },
+  {
+    "id": 331,
+    "title": "El tren dorado — 328",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1965,
+    "stock_id": "STK-331",
+    "stock": 18
+  },
+  {
+    "id": 332,
+    "title": "El tren azul — 329",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1982,
+    "stock_id": "STK-332",
+    "stock": 31
+  },
+  {
+    "id": 333,
+    "title": "El tren errante — 330",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 1999,
+    "stock_id": "STK-333",
+    "stock": 44
+  },
+  {
+    "id": 334,
+    "title": "El tren antiguo — 331",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 2016,
+    "stock_id": "STK-334",
+    "stock": 6
+  },
+  {
+    "id": 335,
+    "title": "El tren luminoso — 332",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1956,
+    "stock_id": "STK-335",
+    "stock": 19
+  },
+  {
+    "id": 336,
+    "title": "El tren roto — 333",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1973,
+    "stock_id": "STK-336",
+    "stock": 32
+  },
+  {
+    "id": 337,
+    "title": "El tren profundo — 334",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1990,
+    "stock_id": "STK-337",
+    "stock": 45
+  },
+  {
+    "id": 338,
+    "title": "El tren salvaje — 335",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 2007,
+    "stock_id": "STK-338",
+    "stock": 7
+  },
+  {
+    "id": 339,
+    "title": "El tren  breve — 336",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 2024,
+    "stock_id": "STK-339",
+    "stock": 20
+  },
+  {
+    "id": 340,
+    "title": "El tren invisible — 337",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1964,
+    "stock_id": "STK-340",
+    "stock": 33
+  },
+  {
+    "id": 341,
+    "title": "El tren distante — 338",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 1981,
+    "stock_id": "STK-341",
+    "stock": 46
+  },
+  {
+    "id": 342,
+    "title": "El tren nuevo — 339",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1998,
+    "stock_id": "STK-342",
+    "stock": 8
+  },
+  {
+    "id": 343,
+    "title": "El tren eterno — 340",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 2015,
+    "stock_id": "STK-343",
+    "stock": 21
+  },
+  {
+    "id": 344,
+    "title": "El isla silencioso — 341",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 1955,
+    "stock_id": "STK-344",
+    "stock": 34
+  },
+  {
+    "id": 345,
+    "title": "El isla perdido — 342",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1972,
+    "stock_id": "STK-345",
+    "stock": 47
+  },
+  {
+    "id": 346,
+    "title": "El isla infinito — 343",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1989,
+    "stock_id": "STK-346",
+    "stock": 9
+  },
+  {
+    "id": 347,
+    "title": "El isla olvidado — 344",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 2006,
+    "stock_id": "STK-347",
+    "stock": 22
+  },
+  {
+    "id": 348,
+    "title": "El isla último — 345",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 2023,
+    "stock_id": "STK-348",
+    "stock": 35
+  },
+  {
+    "id": 349,
+    "title": "El isla lejano — 346",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1963,
+    "stock_id": "STK-349",
+    "stock": 48
+  },
+  {
+    "id": 350,
+    "title": "El isla secreto — 347",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1980,
+    "stock_id": "STK-350",
+    "stock": 10
+  },
+  {
+    "id": 351,
+    "title": "El isla dorado — 348",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1997,
+    "stock_id": "STK-351",
+    "stock": 23
+  },
+  {
+    "id": 352,
+    "title": "El isla azul — 349",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 2014,
+    "stock_id": "STK-352",
+    "stock": 36
+  },
+  {
+    "id": 353,
+    "title": "El isla errante — 350",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 1954,
+    "stock_id": "STK-353",
+    "stock": 49
+  },
+  {
+    "id": 354,
+    "title": "El isla antiguo — 351",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1971,
+    "stock_id": "STK-354",
+    "stock": 11
+  },
+  {
+    "id": 355,
+    "title": "El isla luminoso — 352",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1988,
+    "stock_id": "STK-355",
+    "stock": 24
+  },
+  {
+    "id": 356,
+    "title": "El isla roto — 353",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 2005,
+    "stock_id": "STK-356",
+    "stock": 37
+  },
+  {
+    "id": 357,
+    "title": "El isla profundo — 354",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 2022,
+    "stock_id": "STK-357",
+    "stock": 50
+  },
+  {
+    "id": 358,
+    "title": "El isla salvaje — 355",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1962,
+    "stock_id": "STK-358",
+    "stock": 12
+  },
+  {
+    "id": 359,
+    "title": "El isla  breve — 356",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1979,
+    "stock_id": "STK-359",
+    "stock": 25
+  },
+  {
+    "id": 360,
+    "title": "El isla invisible — 357",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1996,
+    "stock_id": "STK-360",
+    "stock": 38
+  },
+  {
+    "id": 361,
+    "title": "El isla distante — 358",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 2013,
+    "stock_id": "STK-361",
+    "stock": 0
+  },
+  {
+    "id": 362,
+    "title": "El isla nuevo — 359",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1953,
+    "stock_id": "STK-362",
+    "stock": 13
+  },
+  {
+    "id": 363,
+    "title": "El isla eterno — 360",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1970,
+    "stock_id": "STK-363",
+    "stock": 26
+  },
+  {
+    "id": 364,
+    "title": "El farol silencioso — 361",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 1987,
+    "stock_id": "STK-364",
+    "stock": 39
+  },
+  {
+    "id": 365,
+    "title": "El farol perdido — 362",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 2004,
+    "stock_id": "STK-365",
+    "stock": 1
+  },
+  {
+    "id": 366,
+    "title": "El farol infinito — 363",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 2021,
+    "stock_id": "STK-366",
+    "stock": 14
+  },
+  {
+    "id": 367,
+    "title": "El farol olvidado — 364",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 1961,
+    "stock_id": "STK-367",
+    "stock": 27
+  },
+  {
+    "id": 368,
+    "title": "El farol último — 365",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1978,
+    "stock_id": "STK-368",
+    "stock": 40
+  },
+  {
+    "id": 369,
+    "title": "El farol lejano — 366",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1995,
+    "stock_id": "STK-369",
+    "stock": 2
+  },
+  {
+    "id": 370,
+    "title": "El farol secreto — 367",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 2012,
+    "stock_id": "STK-370",
+    "stock": 15
+  },
+  {
+    "id": 371,
+    "title": "El farol dorado — 368",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1952,
+    "stock_id": "STK-371",
+    "stock": 28
+  },
+  {
+    "id": 372,
+    "title": "El farol azul — 369",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1969,
+    "stock_id": "STK-372",
+    "stock": 41
+  },
+  {
+    "id": 373,
+    "title": "El farol errante — 370",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 1986,
+    "stock_id": "STK-373",
+    "stock": 3
+  },
+  {
+    "id": 374,
+    "title": "El farol antiguo — 371",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 2003,
+    "stock_id": "STK-374",
+    "stock": 16
+  },
+  {
+    "id": 375,
+    "title": "El farol luminoso — 372",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 2020,
+    "stock_id": "STK-375",
+    "stock": 29
+  },
+  {
+    "id": 376,
+    "title": "El farol roto — 373",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1960,
+    "stock_id": "STK-376",
+    "stock": 42
+  },
+  {
+    "id": 377,
+    "title": "El farol profundo — 374",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1977,
+    "stock_id": "STK-377",
+    "stock": 4
+  },
+  {
+    "id": 378,
+    "title": "El farol salvaje — 375",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1994,
+    "stock_id": "STK-378",
+    "stock": 17
+  },
+  {
+    "id": 379,
+    "title": "El farol  breve — 376",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 2011,
+    "stock_id": "STK-379",
+    "stock": 30
+  },
+  {
+    "id": 380,
+    "title": "El farol invisible — 377",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1951,
+    "stock_id": "STK-380",
+    "stock": 43
+  },
+  {
+    "id": 381,
+    "title": "El farol distante — 378",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 1968,
+    "stock_id": "STK-381",
+    "stock": 5
+  },
+  {
+    "id": 382,
+    "title": "El farol nuevo — 379",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1985,
+    "stock_id": "STK-382",
+    "stock": 18
+  },
+  {
+    "id": 383,
+    "title": "El farol eterno — 380",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 2002,
+    "stock_id": "STK-383",
+    "stock": 31
+  },
+  {
+    "id": 384,
+    "title": "El código silencioso — 381",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 2019,
+    "stock_id": "STK-384",
+    "stock": 44
+  },
+  {
+    "id": 385,
+    "title": "El código perdido — 382",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1959,
+    "stock_id": "STK-385",
+    "stock": 6
+  },
+  {
+    "id": 386,
+    "title": "El código infinito — 383",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1976,
+    "stock_id": "STK-386",
+    "stock": 19
+  },
+  {
+    "id": 387,
+    "title": "El código olvidado — 384",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 1993,
+    "stock_id": "STK-387",
+    "stock": 32
+  },
+  {
+    "id": 388,
+    "title": "El código último — 385",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 2010,
+    "stock_id": "STK-388",
+    "stock": 45
+  },
+  {
+    "id": 389,
+    "title": "El código lejano — 386",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1950,
+    "stock_id": "STK-389",
+    "stock": 7
+  },
+  {
+    "id": 390,
+    "title": "El código secreto — 387",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1967,
+    "stock_id": "STK-390",
+    "stock": 20
+  },
+  {
+    "id": 391,
+    "title": "El código dorado — 388",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1984,
+    "stock_id": "STK-391",
+    "stock": 33
+  },
+  {
+    "id": 392,
+    "title": "El código azul — 389",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 2001,
+    "stock_id": "STK-392",
+    "stock": 46
+  },
+  {
+    "id": 393,
+    "title": "El código errante — 390",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 2018,
+    "stock_id": "STK-393",
+    "stock": 8
+  },
+  {
+    "id": 394,
+    "title": "El código antiguo — 391",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1958,
+    "stock_id": "STK-394",
+    "stock": 21
+  },
+  {
+    "id": 395,
+    "title": "El código luminoso — 392",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1975,
+    "stock_id": "STK-395",
+    "stock": 34
+  },
+  {
+    "id": 396,
+    "title": "El código roto — 393",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1992,
+    "stock_id": "STK-396",
+    "stock": 47
+  },
+  {
+    "id": 397,
+    "title": "El código profundo — 394",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 2009,
+    "stock_id": "STK-397",
+    "stock": 9
+  },
+  {
+    "id": 398,
+    "title": "El código salvaje — 395",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 2026,
+    "stock_id": "STK-398",
+    "stock": 22
+  },
+  {
+    "id": 399,
+    "title": "El código  breve — 396",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1966,
+    "stock_id": "STK-399",
+    "stock": 35
+  },
+  {
+    "id": 400,
+    "title": "El código invisible — 397",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1983,
+    "stock_id": "STK-400",
+    "stock": 48
+  },
+  {
+    "id": 401,
+    "title": "El código distante — 398",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 2000,
+    "stock_id": "STK-401",
+    "stock": 10
+  },
+  {
+    "id": 402,
+    "title": "El código nuevo — 399",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 2017,
+    "stock_id": "STK-402",
+    "stock": 23
+  },
+  {
+    "id": 403,
+    "title": "El código eterno — 400",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1957,
+    "stock_id": "STK-403",
+    "stock": 36
+  },
+  {
+    "id": 404,
+    "title": "El jardín silencioso — 401",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 1974,
+    "stock_id": "STK-404",
+    "stock": 49
+  },
+  {
+    "id": 405,
+    "title": "El jardín perdido — 402",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1991,
+    "stock_id": "STK-405",
+    "stock": 11
+  },
+  {
+    "id": 406,
+    "title": "El jardín infinito — 403",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 2008,
+    "stock_id": "STK-406",
+    "stock": 24
+  },
+  {
+    "id": 407,
+    "title": "El jardín olvidado — 404",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 2025,
+    "stock_id": "STK-407",
+    "stock": 37
+  },
+  {
+    "id": 408,
+    "title": "El jardín último — 405",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1965,
+    "stock_id": "STK-408",
+    "stock": 50
+  },
+  {
+    "id": 409,
+    "title": "El jardín lejano — 406",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1982,
+    "stock_id": "STK-409",
+    "stock": 12
+  },
+  {
+    "id": 410,
+    "title": "El jardín secreto — 407",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1999,
+    "stock_id": "STK-410",
+    "stock": 25
+  },
+  {
+    "id": 411,
+    "title": "El jardín dorado — 408",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 2016,
+    "stock_id": "STK-411",
+    "stock": 38
+  },
+  {
+    "id": 412,
+    "title": "El jardín azul — 409",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1956,
+    "stock_id": "STK-412",
+    "stock": 0
+  },
+  {
+    "id": 413,
+    "title": "El jardín errante — 410",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 1973,
+    "stock_id": "STK-413",
+    "stock": 13
+  },
+  {
+    "id": 414,
+    "title": "El jardín antiguo — 411",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1990,
+    "stock_id": "STK-414",
+    "stock": 26
+  },
+  {
+    "id": 415,
+    "title": "El jardín luminoso — 412",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 2007,
+    "stock_id": "STK-415",
+    "stock": 39
+  },
+  {
+    "id": 416,
+    "title": "El jardín roto — 413",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 2024,
+    "stock_id": "STK-416",
+    "stock": 1
+  },
+  {
+    "id": 417,
+    "title": "El jardín profundo — 414",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1964,
+    "stock_id": "STK-417",
+    "stock": 14
+  },
+  {
+    "id": 418,
+    "title": "El jardín salvaje — 415",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1981,
+    "stock_id": "STK-418",
+    "stock": 27
+  },
+  {
+    "id": 419,
+    "title": "El jardín  breve — 416",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1998,
+    "stock_id": "STK-419",
+    "stock": 40
+  },
+  {
+    "id": 420,
+    "title": "El jardín invisible — 417",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 2015,
+    "stock_id": "STK-420",
+    "stock": 2
+  },
+  {
+    "id": 421,
+    "title": "El jardín distante — 418",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 1955,
+    "stock_id": "STK-421",
+    "stock": 15
+  },
+  {
+    "id": 422,
+    "title": "El jardín nuevo — 419",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1972,
+    "stock_id": "STK-422",
+    "stock": 28
+  },
+  {
+    "id": 423,
+    "title": "El jardín eterno — 420",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1989,
+    "stock_id": "STK-423",
+    "stock": 41
+  },
+  {
+    "id": 424,
+    "title": "El mapa silencioso — 421",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 2006,
+    "stock_id": "STK-424",
+    "stock": 3
+  },
+  {
+    "id": 425,
+    "title": "El mapa perdido — 422",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 2023,
+    "stock_id": "STK-425",
+    "stock": 16
+  },
+  {
+    "id": 426,
+    "title": "El mapa infinito — 423",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1963,
+    "stock_id": "STK-426",
+    "stock": 29
+  },
+  {
+    "id": 427,
+    "title": "El mapa olvidado — 424",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 1980,
+    "stock_id": "STK-427",
+    "stock": 42
+  },
+  {
+    "id": 428,
+    "title": "El mapa último — 425",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1997,
+    "stock_id": "STK-428",
+    "stock": 4
+  },
+  {
+    "id": 429,
+    "title": "El mapa lejano — 426",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 2014,
+    "stock_id": "STK-429",
+    "stock": 17
+  },
+  {
+    "id": 430,
+    "title": "El mapa secreto — 427",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1954,
+    "stock_id": "STK-430",
+    "stock": 30
+  },
+  {
+    "id": 431,
+    "title": "El mapa dorado — 428",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1971,
+    "stock_id": "STK-431",
+    "stock": 43
+  },
+  {
+    "id": 432,
+    "title": "El mapa azul — 429",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1988,
+    "stock_id": "STK-432",
+    "stock": 5
+  },
+  {
+    "id": 433,
+    "title": "El mapa errante — 430",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 2005,
+    "stock_id": "STK-433",
+    "stock": 18
+  },
+  {
+    "id": 434,
+    "title": "El mapa antiguo — 431",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 2022,
+    "stock_id": "STK-434",
+    "stock": 31
+  },
+  {
+    "id": 435,
+    "title": "El mapa luminoso — 432",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1962,
+    "stock_id": "STK-435",
+    "stock": 44
+  },
+  {
+    "id": 436,
+    "title": "El mapa roto — 433",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1979,
+    "stock_id": "STK-436",
+    "stock": 6
+  },
+  {
+    "id": 437,
+    "title": "El mapa profundo — 434",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1996,
+    "stock_id": "STK-437",
+    "stock": 19
+  },
+  {
+    "id": 438,
+    "title": "El mapa salvaje — 435",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 2013,
+    "stock_id": "STK-438",
+    "stock": 32
+  },
+  {
+    "id": 439,
+    "title": "El mapa  breve — 436",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1953,
+    "stock_id": "STK-439",
+    "stock": 45
+  },
+  {
+    "id": 440,
+    "title": "El mapa invisible — 437",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1970,
+    "stock_id": "STK-440",
+    "stock": 7
+  },
+  {
+    "id": 441,
+    "title": "El mapa distante — 438",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 1987,
+    "stock_id": "STK-441",
+    "stock": 20
+  },
+  {
+    "id": 442,
+    "title": "El mapa nuevo — 439",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 2004,
+    "stock_id": "STK-442",
+    "stock": 33
+  },
+  {
+    "id": 443,
+    "title": "El mapa eterno — 440",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 2021,
+    "stock_id": "STK-443",
+    "stock": 46
+  },
+  {
+    "id": 444,
+    "title": "El invierno silencioso — 441",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 1961,
+    "stock_id": "STK-444",
+    "stock": 8
+  },
+  {
+    "id": 445,
+    "title": "El invierno perdido — 442",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1978,
+    "stock_id": "STK-445",
+    "stock": 21
+  },
+  {
+    "id": 446,
+    "title": "El invierno infinito — 443",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1995,
+    "stock_id": "STK-446",
+    "stock": 34
+  },
+  {
+    "id": 447,
+    "title": "El invierno olvidado — 444",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 2012,
+    "stock_id": "STK-447",
+    "stock": 47
+  },
+  {
+    "id": 448,
+    "title": "El invierno último — 445",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1952,
+    "stock_id": "STK-448",
+    "stock": 9
+  },
+  {
+    "id": 449,
+    "title": "El invierno lejano — 446",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1969,
+    "stock_id": "STK-449",
+    "stock": 22
+  },
+  {
+    "id": 450,
+    "title": "El invierno secreto — 447",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1986,
+    "stock_id": "STK-450",
+    "stock": 35
+  },
+  {
+    "id": 451,
+    "title": "El invierno dorado — 448",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 2003,
+    "stock_id": "STK-451",
+    "stock": 48
+  },
+  {
+    "id": 452,
+    "title": "El invierno azul — 449",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 2020,
+    "stock_id": "STK-452",
+    "stock": 10
+  },
+  {
+    "id": 453,
+    "title": "El invierno errante — 450",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 1960,
+    "stock_id": "STK-453",
+    "stock": 23
+  },
+  {
+    "id": 454,
+    "title": "El invierno antiguo — 451",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1977,
+    "stock_id": "STK-454",
+    "stock": 36
+  },
+  {
+    "id": 455,
+    "title": "El invierno luminoso — 452",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1994,
+    "stock_id": "STK-455",
+    "stock": 49
+  },
+  {
+    "id": 456,
+    "title": "El invierno roto — 453",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 2011,
+    "stock_id": "STK-456",
+    "stock": 11
+  },
+  {
+    "id": 457,
+    "title": "El invierno profundo — 454",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1951,
+    "stock_id": "STK-457",
+    "stock": 24
+  },
+  {
+    "id": 458,
+    "title": "El invierno salvaje — 455",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1968,
+    "stock_id": "STK-458",
+    "stock": 37
+  },
+  {
+    "id": 459,
+    "title": "El invierno  breve — 456",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1985,
+    "stock_id": "STK-459",
+    "stock": 50
+  },
+  {
+    "id": 460,
+    "title": "El invierno invisible — 457",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 2002,
+    "stock_id": "STK-460",
+    "stock": 12
+  },
+  {
+    "id": 461,
+    "title": "El invierno distante — 458",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 2019,
+    "stock_id": "STK-461",
+    "stock": 25
+  },
+  {
+    "id": 462,
+    "title": "El invierno nuevo — 459",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1959,
+    "stock_id": "STK-462",
+    "stock": 38
+  },
+  {
+    "id": 463,
+    "title": "El invierno eterno — 460",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1976,
+    "stock_id": "STK-463",
+    "stock": 0
+  },
+  {
+    "id": 464,
+    "title": "El océano silencioso — 461",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 1993,
+    "stock_id": "STK-464",
+    "stock": 13
+  },
+  {
+    "id": 465,
+    "title": "El océano perdido — 462",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 2010,
+    "stock_id": "STK-465",
+    "stock": 26
+  },
+  {
+    "id": 466,
+    "title": "El océano infinito — 463",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1950,
+    "stock_id": "STK-466",
+    "stock": 39
+  },
+  {
+    "id": 467,
+    "title": "El océano olvidado — 464",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 1967,
+    "stock_id": "STK-467",
+    "stock": 1
+  },
+  {
+    "id": 468,
+    "title": "El océano último — 465",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 1984,
+    "stock_id": "STK-468",
+    "stock": 14
+  },
+  {
+    "id": 469,
+    "title": "El océano lejano — 466",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 2001,
+    "stock_id": "STK-469",
+    "stock": 27
+  },
+  {
+    "id": 470,
+    "title": "El océano secreto — 467",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 2018,
+    "stock_id": "STK-470",
+    "stock": 40
+  },
+  {
+    "id": 471,
+    "title": "El océano dorado — 468",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1958,
+    "stock_id": "STK-471",
+    "stock": 2
+  },
+  {
+    "id": 472,
+    "title": "El océano azul — 469",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 1975,
+    "stock_id": "STK-472",
+    "stock": 15
+  },
+  {
+    "id": 473,
+    "title": "El océano errante — 470",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 1992,
+    "stock_id": "STK-473",
+    "stock": 28
+  },
+  {
+    "id": 474,
+    "title": "El océano antiguo — 471",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 2009,
+    "stock_id": "STK-474",
+    "stock": 41
+  },
+  {
+    "id": 475,
+    "title": "El océano luminoso — 472",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 2026,
+    "stock_id": "STK-475",
+    "stock": 3
+  },
+  {
+    "id": 476,
+    "title": "El océano roto — 473",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1966,
+    "stock_id": "STK-476",
+    "stock": 16
+  },
+  {
+    "id": 477,
+    "title": "El océano profundo — 474",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 1983,
+    "stock_id": "STK-477",
+    "stock": 29
+  },
+  {
+    "id": 478,
+    "title": "El océano salvaje — 475",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 2000,
+    "stock_id": "STK-478",
+    "stock": 42
+  },
+  {
+    "id": 479,
+    "title": "El océano  breve — 476",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 2017,
+    "stock_id": "STK-479",
+    "stock": 4
+  },
+  {
+    "id": 480,
+    "title": "El océano invisible — 477",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1957,
+    "stock_id": "STK-480",
+    "stock": 17
+  },
+  {
+    "id": 481,
+    "title": "El océano distante — 478",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 1974,
+    "stock_id": "STK-481",
+    "stock": 30
+  },
+  {
+    "id": 482,
+    "title": "El océano nuevo — 479",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 1991,
+    "stock_id": "STK-482",
+    "stock": 43
+  },
+  {
+    "id": 483,
+    "title": "El océano eterno — 480",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 2008,
+    "stock_id": "STK-483",
+    "stock": 5
+  },
+  {
+    "id": 484,
+    "title": "El reloj silencioso — 481",
+    "author": "Elena Morales",
+    "genre": "Ficción",
+    "year": 2025,
+    "stock_id": "STK-484",
+    "stock": 18
+  },
+  {
+    "id": 485,
+    "title": "El reloj perdido — 482",
+    "author": "Mateo Paredes",
+    "genre": "Aventura",
+    "year": 1965,
+    "stock_id": "STK-485",
+    "stock": 31
+  },
+  {
+    "id": 486,
+    "title": "El reloj infinito — 483",
+    "author": "Lucía Vargas",
+    "genre": "Misterio",
+    "year": 1982,
+    "stock_id": "STK-486",
+    "stock": 44
+  },
+  {
+    "id": 487,
+    "title": "El reloj olvidado — 484",
+    "author": "Tomás Vega",
+    "genre": "Ciencia ficción",
+    "year": 1999,
+    "stock_id": "STK-487",
+    "stock": 6
+  },
+  {
+    "id": 488,
+    "title": "El reloj último — 485",
+    "author": "Valentina Silva",
+    "genre": "Realismo mágico",
+    "year": 2016,
+    "stock_id": "STK-488",
+    "stock": 19
+  },
+  {
+    "id": 489,
+    "title": "El reloj lejano — 486",
+    "author": "Nicolás Ibarra",
+    "genre": "Novela histórica",
+    "year": 1956,
+    "stock_id": "STK-489",
+    "stock": 32
+  },
+  {
+    "id": 490,
+    "title": "El reloj secreto — 487",
+    "author": "Camila Ríos",
+    "genre": "Fantasía",
+    "year": 1973,
+    "stock_id": "STK-490",
+    "stock": 45
+  },
+  {
+    "id": 491,
+    "title": "El reloj dorado — 488",
+    "author": "Gabriel Cabrera",
+    "genre": "Poesía",
+    "year": 1990,
+    "stock_id": "STK-491",
+    "stock": 7
+  },
+  {
+    "id": 492,
+    "title": "El reloj azul — 489",
+    "author": "Sofía Reyes",
+    "genre": "Thriller",
+    "year": 2007,
+    "stock_id": "STK-492",
+    "stock": 20
+  },
+  {
+    "id": 493,
+    "title": "El reloj errante — 490",
+    "author": "Daniel Navarro",
+    "genre": "Literatura contemporánea",
+    "year": 2024,
+    "stock_id": "STK-493",
+    "stock": 33
+  },
+  {
+    "id": 494,
+    "title": "El reloj antiguo — 491",
+    "author": "Mariana Santos",
+    "genre": "Ficción",
+    "year": 1964,
+    "stock_id": "STK-494",
+    "stock": 46
+  },
+  {
+    "id": 495,
+    "title": "El reloj luminoso — 492",
+    "author": "Joaquín Acosta",
+    "genre": "Aventura",
+    "year": 1981,
+    "stock_id": "STK-495",
+    "stock": 8
+  },
+  {
+    "id": 496,
+    "title": "El reloj roto — 493",
+    "author": "Isabel Mendoza",
+    "genre": "Misterio",
+    "year": 1998,
+    "stock_id": "STK-496",
+    "stock": 21
+  },
+  {
+    "id": 497,
+    "title": "El reloj profundo — 494",
+    "author": "Emilio Luna",
+    "genre": "Ciencia ficción",
+    "year": 2015,
+    "stock_id": "STK-497",
+    "stock": 34
+  },
+  {
+    "id": 498,
+    "title": "El reloj salvaje — 495",
+    "author": "Clara Molina",
+    "genre": "Realismo mágico",
+    "year": 1955,
+    "stock_id": "STK-498",
+    "stock": 47
+  },
+  {
+    "id": 499,
+    "title": "El reloj  breve — 496",
+    "author": "Rafael Fuentes",
+    "genre": "Novela histórica",
+    "year": 1972,
+    "stock_id": "STK-499",
+    "stock": 9
+  },
+  {
+    "id": 500,
+    "title": "El reloj invisible — 497",
+    "author": "Inés Herrera",
+    "genre": "Fantasía",
+    "year": 1989,
+    "stock_id": "STK-500",
+    "stock": 22
+  },
+  {
+    "id": 501,
+    "title": "El reloj distante — 498",
+    "author": "Andrés Cortés",
+    "genre": "Poesía",
+    "year": 2006,
+    "stock_id": "STK-501",
+    "stock": 35
+  },
+  {
+    "id": 502,
+    "title": "El reloj nuevo — 499",
+    "author": "Paula Castro",
+    "genre": "Thriller",
+    "year": 2023,
+    "stock_id": "STK-502",
+    "stock": 48
+  },
+  {
+    "id": 503,
+    "title": "El reloj eterno — 500",
+    "author": "León Duarte",
+    "genre": "Literatura contemporánea",
+    "year": 1963,
+    "stock_id": "STK-503",
+    "stock": 10
   }
 ]
